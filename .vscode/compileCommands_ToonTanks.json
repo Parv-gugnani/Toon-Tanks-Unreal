@@ -1,0 +1,87 @@
+[
+    {
+        "file": "D:\\\\Game development\\\\saves\\\\ToonTanks\\\\Source\\\\ToonTanks\\\\BasePawn.cpp",
+        "command": "cl.exe @\"D:\\Game development\\saves\\ToonTanks\\.vscode\\compileCommands_ToonTanks\\ToonTanks.210.rsp\"",
+        "directory": "D:\\Game development\\UE_4.27\\Engine\\Source"
+    },
+    {
+        "file": "D:\\\\Game development\\\\saves\\\\ToonTanks\\\\Source\\\\ToonTanks\\\\BasePawn.h",
+        "command": "cl.exe @\"D:\\Game development\\saves\\ToonTanks\\.vscode\\compileCommands_ToonTanks\\ToonTanks.210.rsp\"",
+        "directory": "D:\\Game development\\UE_4.27\\Engine\\Source"
+    },
+    {
+        "file": "D:\\\\Game development\\\\saves\\\\ToonTanks\\\\Source\\\\ToonTanks\\\\ToonTanks.Build.cs",
+        "command": "cl.exe @\"D:\\Game development\\saves\\ToonTanks\\.vscode\\compileCommands_ToonTanks\\ToonTanks.210.rsp\"",
+        "directory": "D:\\Game development\\UE_4.27\\Engine\\Source"
+    },
+    {
+        "file": "D:\\\\Game development\\\\saves\\\\ToonTanks\\\\Source\\\\ToonTanks\\\\ToonTanks.cpp",
+        "command": "cl.exe @\"D:\\Game development\\saves\\ToonTanks\\.vscode\\compileCommands_ToonTanks\\ToonTanks.210.rsp\"",
+        "directory": "D:\\Game development\\UE_4.27\\Engine\\Source"
+    },
+    {
+        "file": "D:\\\\Game development\\\\saves\\\\ToonTanks\\\\Source\\\\ToonTanks\\\\ToonTanks.h",
+        "command": "cl.exe @\"D:\\Game development\\saves\\ToonTanks\\.vscode\\compileCommands_ToonTanks\\ToonTanks.210.rsp\"",
+        "directory": "D:\\Game development\\UE_4.27\\Engine\\Source"
+    },
+    {
+        "file": "d:\\\\Game development\\\\saves\\\\ToonTanks\\\\Source\\\\ToonTanks\\\\Tank.h",
+        "command": "cl.exe @\"D:\\Game development\\saves\\ToonTanks\\.vscode\\compileCommands_ToonTanks\\ToonTanks.210.rsp\"",
+        "directory": "D:\\Game development\\UE_4.27\\Engine\\Source"
+    },
+    {
+        "file": "d:\\\\Game development\\\\saves\\\\ToonTanks\\\\Source\\\\ToonTanks\\\\Tank.cpp",
+        "command": "cl.exe @\"D:\\Game development\\saves\\ToonTanks\\.vscode\\compileCommands_ToonTanks\\ToonTanks.210.rsp\"",
+        "directory": "D:\\Game development\\UE_4.27\\Engine\\Source"
+    },
+    {
+        "file": "d:\\\\Game development\\\\saves\\\\ToonTanks\\\\Source\\\\ToonTanks\\\\Tower.h",
+        "command": "cl.exe @\"D:\\Game development\\saves\\ToonTanks\\.vscode\\compileCommands_ToonTanks\\ToonTanks.210.rsp\"",
+        "directory": "D:\\Game development\\UE_4.27\\Engine\\Source"
+    },
+    {
+        "file": "d:\\\\Game development\\\\saves\\\\ToonTanks\\\\Source\\\\ToonTanks\\\\Tower.cpp",
+        "command": "cl.exe @\"D:\\Game development\\saves\\ToonTanks\\.vscode\\compileCommands_ToonTanks\\ToonTanks.210.rsp\"",
+        "directory": "D:\\Game development\\UE_4.27\\Engine\\Source"
+    },
+    {
+        "file": "d:\\\\Game development\\\\saves\\\\ToonTanks\\\\Source\\\\ToonTanks\\\\Projectile.h",
+        "command": "cl.exe @\"D:\\Game development\\saves\\ToonTanks\\.vscode\\compileCommands_ToonTanks\\ToonTanks.210.rsp\"",
+        "directory": "D:\\Game development\\UE_4.27\\Engine\\Source"
+    },
+    {
+        "file": "d:\\\\Game development\\\\saves\\\\ToonTanks\\\\Source\\\\ToonTanks\\\\Projectile.cpp",
+        "command": "cl.exe @\"D:\\Game development\\saves\\ToonTanks\\.vscode\\compileCommands_ToonTanks\\ToonTanks.210.rsp\"",
+        "directory": "D:\\Game development\\UE_4.27\\Engine\\Source"
+    },
+    {
+        "file": "d:\\\\Game development\\\\saves\\\\ToonTanks\\\\Source\\\\ToonTanks\\\\HealthComponent.h",
+        "command": "cl.exe @\"D:\\Game development\\saves\\ToonTanks\\.vscode\\compileCommands_ToonTanks\\ToonTanks.210.rsp\"",
+        "directory": "D:\\Game development\\UE_4.27\\Engine\\Source"
+    },
+    {
+        "file": "d:\\\\Game development\\\\saves\\\\ToonTanks\\\\Source\\\\ToonTanks\\\\HealthComponent.cpp",
+        "command": "cl.exe @\"D:\\Game development\\saves\\ToonTanks\\.vscode\\compileCommands_ToonTanks\\ToonTanks.210.rsp\"",
+        "directory": "D:\\Game development\\UE_4.27\\Engine\\Source"
+    },
+    {
+        "file": "d:\\\\Game development\\\\saves\\\\ToonTanks\\\\Source\\\\ToonTanks\\\\ToonTanksGameMode.h",
+        "command": "cl.exe @\"D:\\Game development\\saves\\ToonTanks\\.vscode\\compileCommands_ToonTanks\\ToonTanks.210.rsp\"",
+        "directory": "D:\\Game development\\UE_4.27\\Engine\\Source"
+    },
+    {
+        "file": "d:\\\\Game development\\\\saves\\\\ToonTanks\\\\Source\\\\ToonTanks\\\\ToonTanksGameMode.cpp",
+        "command": "cl.exe @\"D:\\Game development\\saves\\ToonTanks\\.vscode\\compileCommands_ToonTanks\\ToonTanks.210.rsp\"",
+        "directory": "D:\\Game development\\UE_4.27\\Engine\\Source"
+    },
+    {
+        "file": "d:\\\\Game development\\\\saves\\\\ToonTanks\\\\Source\\\\ToonTanks\\\\ToonTanksPlayerController.h",
+        "command": "cl.exe @\"D:\\Game development\\saves\\ToonTanks\\.vscode\\compileCommands_ToonTanks\\ToonTanks.210.rsp\"",
+        "directory": "D:\\Game development\\UE_4.27\\Engine\\Source"
+    },
+    {
+        "file": "d:\\\\Game development\\\\saves\\\\ToonTanks\\\\Source\\\\ToonTanks\\\\ToonTanksPlayerController.cpp",
+        "command": "cl.exe @\"D:\\Game development\\saves\\ToonTanks\\.vscode\\compileCommands_ToonTanks\\ToonTanks.210.rsp\"",
+        "directory": "D:\\Game development\\UE_4.27\\Engine\\Source"
+    }
+]

@@ -1,0 +1,29 @@
+{
+	"folders": [
+		{
+			"name": "ToonTanks",
+			"path": "."
+		},
+		{
+			"name": "UE4",
+			"path": "D:\\Game development\\UE_4.27"
+		}
+	],
+	"settings": {
+		"typescript.tsc.autoDetect": "off",
+		"C_Cpp.default.forcedInclude": [
+			"${default}",
+			"D:\\Game development\\saves\\ToonTanks\\Intermediate\\Build\\Win64\\UE4Editor\\Development\\ToonTanks\\Definitions.ToonTanks.h",
+			"D:\\Game development\\saves\\ToonTanks\\Intermediate\\Build\\Win64\\ToonTanksEditor\\Development\\Engine\\SharedPCH.Engine.ShadowErrors.h"
+		],
+		"files.associations": {
+			"*.rh": "cpp"
+		}
+	},
+	"extensions": {
+		"recommendations": [
+			"ms-vscode.cpptools",
+			"ms-dotnettools.csharp"
+		]
+	}
+}
